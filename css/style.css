@@ -392,7 +392,7 @@ a:focus {
 .slider_section .carousel-indicators {
   position: absolute;
   bottom: 30px; 
-  left: 30%;
+  left: 32%;
   transform: translateX(-50%);
   display: flex;
   justify-content: center;

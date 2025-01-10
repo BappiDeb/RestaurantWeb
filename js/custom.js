@@ -42,7 +42,7 @@ function myMap() {
     };
 }
 
-//Carousel
+//this is for the slider section
 document.addEventListener('DOMContentLoaded', function() {
     const slides = [
       {
@@ -92,6 +92,8 @@ document.addEventListener('DOMContentLoaded', function() {
     setInterval(nextSlide, 3000); // Change slide every 3 seconds
   });
 
+
+// this is for the our offer menu section
   document.addEventListener('DOMContentLoaded', function() {
     const offers = [
         {
@@ -157,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-
+// this is for the menu section
 
 document.addEventListener('DOMContentLoaded', function() {
   const menuItems = [
