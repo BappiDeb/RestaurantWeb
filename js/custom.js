@@ -46,18 +46,18 @@ function myMap() {
 document.addEventListener('DOMContentLoaded', function() {
     const slides = [
       {
-        title: 'Fast Food Restaurant',
-        description: 'Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.',
+        title: 'Fast Food',
+        description: 'esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.',
         image: 'images/slider1.png'
       },
       {
-        title: 'Delicious Meals',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.',
+        title: 'Delicious',
+        description: 'consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna.',
         image: 'images/slider2.png'
       },
       {
-        title: 'Quality Ingredients',
-        description: 'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        title: 'Quality',
+        description: 't enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         image: 'images/slider3.png'
       }
     ];

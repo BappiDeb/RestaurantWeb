@@ -343,7 +343,7 @@ a:focus {
 
 .slider_section #customCarousel1 {
   width: 100%;
-  position: unset;
+  position: set;
 }
 
 .slider_section .detail-box {
@@ -380,6 +380,7 @@ a:focus {
 
 .slider_section .img-box img {
   width: 100%;
+  height: 80%;
 }
 
 .slider_section .carousel-indicators {
