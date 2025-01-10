@@ -379,10 +379,10 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
-  height: 80%;
+  width: 600px; 
+  height: 400px;
+  object-fit: cover; 
 }
-
 .slider_section .carousel-indicators {
   position: absolute;
   bottom: 30px; 
